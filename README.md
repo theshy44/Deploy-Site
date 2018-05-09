@@ -10,11 +10,9 @@ NOTE: WE'LL MAKE EXTENSIVE USE OF THE COMAND LINE AND GIT IN THIS TASK.
 # Jekyll: Oveview
 The focus of this task will be on the process of deploying the website not creating it. we'll use a tool known as JEKYLL to quickly generate a website. Jekyll is a simple static site generator. 
 ## Installing Jekyll
-Before we can generate a websit, we must install jekyll. jekyll is a ruby gem and can be installed from the command line, once jekyll is installed. We can us it to generate your site.
+Before we can generate a website, we must install jekyll. jekyll is a ruby gem and can be installed from the command line, once jekyll is installed. We can us it to generate your site.
 * 1. Install Jekyll by typing on the terminal 
-```
-gem install jekyll
-```
+[installation guide](https://jekyllrb.com/docs/installation)
 Great! now that jekyll is installed, let's generate your website. To do so, we'll use jekyll new command an specify a directory name. The directory will contain all your sit defult content that can be customised later.
 * 2. In the terminal, use Jekyll new command to generate your static website with a directory name "one-page-website"
 ```
