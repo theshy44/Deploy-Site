@@ -45,3 +45,27 @@ _includes/ - This directory contains all the partials (code templates that keep 
 _posts/ - This directory is where blog posts are stored. New blog posts can be added and will be rendered with the site's styling, as long as the file name follows Jekyll's standard naming convention.
 
 _layouts/ - This directory contains templates that are used to style certain types of posts within the site. For example, new blog posts will use the HTML layout defined in post.html.
+
+# Deploy your website for github page
+* 1. Create a repo
+* 2. Initialize an empty repo locally using
+```
+git init
+```
+use the cd command to navigate to your site directory before creating an empty repo
+* 3. Add the Remote
+git needs to know what repo will store your site content. to specify the repo using git w'll ad the remote and label it as origin
+```
+git remote add origin "url"
+```
+* 4. Commit your changes
+```
+git add .
+```
+```
+git commit -m "save my work"
+```
+* 5. Deploy your site
+```
+git push -u origin master
+```
