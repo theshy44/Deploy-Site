@@ -21,3 +21,11 @@ git commit -m "save my work"
 ```
 git push -u origin master
 ```
+* convert the website into an app, start by setting a webserver for it
+# Deploy Your Website With Web Server For Chrome
+Deploying means that making the content or software accessible and available for use. The website that you'll deploy will be public or live on the internet, it will be accessible to anyone with open internet access at anytime, anywhere in the world. Here is the starting [Guide](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)
+
+## Tutorials
+* [Progressive Web Application](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
+* [Firebase](https://firebase.google.com/)
+* [Meteor](https://www.meteor.com/)
