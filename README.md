@@ -27,5 +27,4 @@ Deploying means that making the content or software accessible and available for
 
 ## Tutorials
 * [Progressive Web Application](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
-* [Firebase](https://firebase.google.com/)
 * [Try Meteor](https://www.meteor.com/)
