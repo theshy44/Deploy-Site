@@ -110,3 +110,5 @@ You now have a killer event space that gets people buying tickets and is ready t
 * search bar
 * Signup /Sign in page 
 * Make the app live using "deploying with heroku"
+* SEO (Search engine optimisation) use GOOGLE ADWORD
+* Track Users Using GOOGLE ANALYTICS
