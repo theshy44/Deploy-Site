@@ -22,9 +22,8 @@ git commit -m "save my work"
 git push -u origin master
 ```
 * to convert the website into a progressive web application, start by completing the tutorials to understand how to create a progressive web application.
-## Tutorials
+## Tutorial
 * [Progressive Web Application](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
-* [Try Meteor](https://www.meteor.com/)
 # Instruction
 You must are tasked out to convert the one page website into a progressive web application based on displaying events. Your application should entail:
 
